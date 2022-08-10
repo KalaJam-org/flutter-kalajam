@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "108812348675",
+    "project_id": "kalajam-b8876",
+    "storage_bucket": "kalajam-b8876.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108812348675:android:58c9c803f390d23a8e8d36",
+        "android_client_info": {
+          "package_name": "com.kalajam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "108812348675-qbclnedii2ut49fdqh1n9mu7oc4r7jbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmJk17voMuusBecgFZOavu2uvOs6qDhM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "108812348675-qbclnedii2ut49fdqh1n9mu7oc4r7jbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
